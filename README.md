@@ -1,9 +1,14 @@
-# DevOps Capstone Template
+# devops-capstone-project
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
 This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+
+## Project Description
+
+This repository contains the DevOps Capstone Project developed as part of the IBM DevOps and Software Engineering Professional Certificate. The project demonstrates DevOps practices including Test Driven Development (TDD), Continuous Integration (CI), Continuous Delivery (CD), containerization with Docker, Kubernetes deployment, automated testing, and cloud-native application development.
+The microservice manages Account resources through REST APIs and follows the Model-View-Controller (MVC) architecture. The project also includes automated testing, code quality checks, deployment pipelines, and Kubernetes-based deployment.
 
 ## Usage
 
