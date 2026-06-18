@@ -5,7 +5,7 @@ about: Create a user story for the DevOps Capstone project
 title: "[USER STORY]"
 labels: ""
 assignees: ""
--------------
+---
 
 **As a** [role]
 
