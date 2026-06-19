@@ -171,7 +171,7 @@ class TestAccountService(TestCase):
             resp.status_code,
             status.HTTP_204_NO_CONTENT
         )
-    
+
     def test_get_account_list(self):
         """It should Get a list of Accounts"""
         self._create_accounts(5)
